@@ -1,0 +1,41 @@
+{
+    "fecha_exportacion": "08/11/2026 18:18:55",
+    "total_contactos": 5,
+    "contactos": [
+        {
+            "id": 1,
+            "nombre": "Pedro",
+            "telefono": "45031552",
+            "correo": "pedro@gmail.com",
+            "ciudad": "Salcaja"
+        },
+        {
+            "id": 2,
+            "nombre": "Pepe",
+            "telefono": "85526559",
+            "correo": "pepe@outlook.com",
+            "ciudad": "Tzunil"
+        },
+        {
+            "id": 3,
+            "nombre": "Emilio",
+            "telefono": "98874114",
+            "correo": "pepo@gmail.com",
+            "ciudad": "Huehuetenango"
+        },
+        {
+            "id": 4,
+            "nombre": "camila",
+            "telefono": "69983221",
+            "correo": "camila@hotmail.com",
+            "ciudad": "Petén"
+        },
+        {
+            "id": 5,
+            "nombre": "Jorge",
+            "telefono": "49982332",
+            "correo": "Jogito@gmail.com",
+            "ciudad": "Oklahoma"
+        }
+    ]
+}
